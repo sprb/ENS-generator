@@ -6,4 +6,4 @@ A program made to simplfy making lists for use with popular ENS registration sit
 https://www.ens.vision/ | https://ens.domains/ | https://predomain.eth.limo/
 
 
-*Version fixing 001,002,... errors coming soon*
+*Version fixing 001, 002, ... errors coming soon*
