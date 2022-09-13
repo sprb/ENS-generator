@@ -23,25 +23,3 @@ def ens_generator():
 
        
 ens_generator()
-
-
-
-#make a statement for any number below 100 so it is 001 ex: $001
-
-#does not work because the length is always less then or equal to 1000 or what ever the length is
-
-
-
-
-#have leading zeros for all numbers below 100
-
-#def length_choice():
-#    choice = int(input("How many values would you like to generate? "))
-#    if choice == 10:
-#        return 10
-#    if choice == 100:
-#        return 100
-#    if choice == 10000:
-#        return 10000
-#    else:
-#        return 1000                  
