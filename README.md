@@ -1,5 +1,5 @@
 # ENS-generator
-A simple Ethereum Name Service generator. 
+A simple Ethereum Name Service list generator. 
 
 A program made to simplfy making lists for use with popular ENS registration sites.
 
